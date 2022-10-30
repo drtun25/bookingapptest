@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "tune24",
+        "MONGO_PASSWORD": "HmSmyjTSG2LwYMLK",
+        "MONGO_DB": "events-react-dev"
+    }
+}
